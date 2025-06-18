@@ -70,11 +70,27 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 📫 Contact Me
+
 <p align="left">
-<a href="https://linkedin.com/in/dinelka lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinelka lakshan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23491408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23491408" height="30" width="40" /></a>
-<a href="https://fb.com/dinelka lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinelka lakshan" height="30" width="40" /></a>
+  <a href="mailto:dinelkalakshan.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-dinelkalakshan.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/dinelka-lakshan-572ab62ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/dinelkalakshan40" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-dinelkalakshan40-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+<p align="left">
+  <a href="tel:+94764709426" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-%2B94%20764%20709%20426-brightgreen?style=flat&logo=phone&logoColor=white" />
+  </a>
 </p>
 
 ---
